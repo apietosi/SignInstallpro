@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 // PASTE YOUR WEB APP URL HERE
-const WEB_APP_URL = "YOUR_GOOGLE_APPS_SCRIPT_URL_HERE";
+const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbx9JfZ1q7jJuSnBM_qqdQxANAqV94KCdt3hMXaYosfPKFVMUMgMo1G805Kgipip2T-k/exec";
 
 interface LogEntry {
   name: string;
